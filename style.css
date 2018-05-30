@@ -1,7 +1,6 @@
-body {
-  background-color: #f1f1f1;
-}
-
-.container {
-  height: 80vh;
+.container.demo{
+  /* background: #054bd1; */
+  /* height: 100vh;
+  color: white;
+  -webkit-font-smoothing: antialiased; */
 }
